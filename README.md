@@ -2,8 +2,7 @@
 
 A/B Test Experiment Summary &
 Recommendation
-Project: \"Quick Start Bundle\" Feature Evaluation
-Prepared by: Product Analyst
+Project:
 
 1. Executive Summary & Decision
 Final Decision: REJECT THE ROLLOUT & HALT THE TEST
